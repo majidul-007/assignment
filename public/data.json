@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "name": "Sachin Tendulkar",
+      "country": "India",
+      "rating": 100,
+      "role": "Batsman",
+      "batting_style": "Right-handed",
+      "price": 50000000,
+      "image": "https://i.ibb.co.com/dt0b6bd/71-VEBhg-Oxa-L.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Brian Lara",
+      "country": "West Indies",
+      "rating": 98,
+      "role": "Batsman",
+      "batting_style": "Left-handed",
+      "price": 40000000,
+      "image": "https://i.ibb.co.com/gjFTn83/Brian-Lara.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Jacques Kallis",
+      "country": "South Africa",
+      "rating": 95,
+      "role": "All-rounder",
+      "batting_style": "Right-handed",
+      "price": 35000000,
+      "image": "https://i.ibb.co.com/cXJxzYT/jacques-kallis-06-04-2022.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Kumar Sangakkara",
+      "country": "Sri Lanka",
+      "rating": 93,
+      "role": "Batsman",
+      "batting_style": "Left-handed",
+      "price": 30000000,
+      "image": "https://i.ibb.co.com/cYND4C9/sri-lanka-cricket-kumar-sangakkara-with-bat-ckuz66ok4gza5kwo.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "rating": 90,
+      "role": "All-rounder",
+      "batting_style": "Left-handed",
+      "price": 25000000,
+      "image": "https://i.ibb.co.com/Cb5JcTL/shakib-al-hasan-696x342.jpg"
+    },
+    {
+      "id": 6,
+      "name": "AB de Villiers",
+      "country": "South Africa",
+      "rating": 92,
+      "role": "Batsman",
+      "batting_style": "Right-handed",
+      "price": 38000000,
+      "image": "https://i.ibb.co.com/x2Jc7NN/DTKoqj-XX4-AEdbt-W.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Virat Kohli",
+      "country": "India",
+      "rating": 97,
+      "role": "Batsman",
+      "batting_style": "Right-handed",
+      "price": 55000000,
+      "image": "https://i.ibb.co.com/SPGpfqw/Virat-Kohli-17.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Ben Stokes",
+      "country": "England",
+      "rating": 89,
+      "role": "All-rounder",
+      "batting_style": "Left-handed",
+      "price": 42000000,
+      "image": "https://i.ibb.co.com/dfb4FkP/ben-stokes-in-light-blue-uniform-4kjht8xstu2eveb2.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "rating": 94,
+      "role": "Batsman",
+      "batting_style": "Right-handed",
+      "price": 30000000,
+      "image": "https://i.ibb.co.com/xYpmfWP/new-zealand-cricket-superstar-kane-williamson-vl2v0a9uljifh6m3.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Chris Gayle",
+      "country": "West Indies",
+      "rating": 91,
+      "role": "All-rounder",
+      "batting_style": "Left-handed",
+      "price": 27000000,
+      "image": "https://i.ibb.co.com/gF2wHFX/post-image-2387a61.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Muttiah Muralitharan",
+      "country": "Sri Lanka",
+      "rating": 96,
+      "role": "Bowler",
+      "batting_style": "Right-handed",
+      "price": 32000000,
+      "image": "https://i.ibb.co.com/Q82D8n9/l95320230417105222.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Shane Watson",
+      "country": "Australia",
+      "rating": 88,
+      "role": "All-rounder",
+      "batting_style": "Right-handed",
+      "price": 29000000,
+      "image": "https://i.ibb.co.com/sCWzsQY/hq720.jpg"
+    }
+  ]
+  
